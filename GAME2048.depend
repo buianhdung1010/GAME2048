@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1747758188 source:c:\game2048\main.cpp
+	<iostream>
+	<SDL.h>
+	<ctime>
+	<SDL_ttf.h>
+	<cstring>
+	<cmath>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Move.h"
+	"UI.h"
+	"Board.h"
+	"Animation.h"
+	"Algorithm.h"
+	"bestcore.h"
+
+1747755329 c:\game2048\move.h
+	"Animation.h"
+	<SDL_mixer.h>
+
+1747755285 source:c:\game2048\move.cpp
+	"Move.h"
+
+1747069992 source:c:\game2048\ui.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"UI.h"
+	"Move.h"
+	"Animation.h"
+
+1747067200 c:\game2048\ui.h
+	<SDL.h>
+	<SDL_ttf.h>
+	"Animation.h"
+
+1746289455 c:\game2048\global.h
+
+1746289475 source:c:\game2048\global.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	"Global.h"
+
+1747039729 source:c:\game2048\board.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<ctime>
+	<SDL_image.h>
+	"UI.h"
+	"Move.h"
+	"Animation.h"
+	"Board.h"
+
+1746982643 c:\game2048\board.h
+
+1746725898 c:\game2048\animation.h
+
+1746725898 source:c:\game2048\animation.cpp
+	"Animation.h"
+
+1747754601 source:c:\game2048\algorithm.cpp
+	<SDL.h>
+	<SDL_mixer.h>
+	<iostream>
+	"Algorithm.h"
+
+1747754582 c:\game2048\algorithm.h
+
+1747758053 source:c:\game2048\bestscore.cpp
+	<fstream>
+	"bestcore.h"
+
+1747758053 c:\game2048\bestcore.h
+
